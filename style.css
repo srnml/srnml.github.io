@@ -1,24 +1,27 @@
 body { font-family: Georgia, "Times New Roman",
           Times, serif; 
   	color: white;
-    background-image: url('https://user-images.githubusercontent.com/79925778/110738545-7a019380-826a-11eb-9836-f7ac9f962c70.png');
-    background-repeat: no-repeat;
+          background-image: url('https://user-images.githubusercontent.com/79925778/110738545-7a019380-826a-11eb-9836-f7ac9f962c70.png');
+          background-repeat: no-repeat;
   	background-attachment: fixed; 
   	background-size: cover; 
 }
 
-.clearfix {
+/* .clearfix {
    overflow:auto;
-}
+} */
 
 .image1 {
-  float:left;
+/*   float:left; */
+          position: absolute;
+          left: 0px;
+          padding: 10px;
 }
 
 .image2 {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
 }
 
 ul { border: 2px dotted #F5F5F5;
