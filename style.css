@@ -7,11 +7,12 @@ body { font-family: Georgia, "Times New Roman",
   	background-size: cover; 
 }
 
-.image1 {
-  float:left;
-}
 .clearfix {
    overflow:auto;
+}
+
+.image1 {
+  float:left;
 }
 
 .image2 {
