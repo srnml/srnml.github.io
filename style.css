@@ -1,0 +1,9 @@
+body { font-family: Georgia, "Times New Roman",
+          Times, serif; 
+  	color: white;
+    background-image: url('https://user-images.githubusercontent.com/79925778/110735584-0b6e0700-8265-11eb-95b7-c0629664edc4.png');
+    background-repeat: no-repeat;
+  	background-attachment: fixed; 
+  	background-size: cover; }
+ h1 { font-family:  Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif; color: #E1AD01; text-align: center;}
