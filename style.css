@@ -5,7 +5,7 @@ body { font-family: Georgia, "Times New Roman",
     background-repeat: no-repeat;
   	background-attachment: fixed; 
   	background-size: cover; }
-ul { border: 2px solid powderblue;
+ul { border: 2px dotted #F5F5F5;
           margin: 50px}
           
  h1 { font-family:  Helvetica, Geneva, Arial,
